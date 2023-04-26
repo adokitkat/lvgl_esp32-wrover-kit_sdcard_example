@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+build/
+managed_components/
+*.lock
+sdkconfig
+sdkconfig.old

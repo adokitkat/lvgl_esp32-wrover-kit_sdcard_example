@@ -1,0 +1,6 @@
+dependencies:
+  espressif/esp_wrover_kit: "*"
+  lvgl/lvgl: "*"
+  espressif/esp_lvgl_port: "*"
+  idf:
+    version: ">=5.0"
